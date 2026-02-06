@@ -2,3 +2,14 @@
     text-align: center;
     margin-bottom: 25px;
 }
+#city{
+    width: 300px;
+    height: 14px;
+    
+}
+#city:hover{
+    width: 310px;             /* increases width */
+    border-color: #007bff;    /* blue border on hover/focus */
+    box-shadow: 0px 0px 10px rgba(0, 123, 255, 0.4);
+    outline: none;
+}
